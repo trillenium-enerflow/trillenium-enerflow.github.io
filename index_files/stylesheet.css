@@ -1,0 +1,174 @@
+BODY {
+	MARGIN: 0px
+}
+.marquee {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 12px; COLOR: #fff; LINE-HEIGHT: 17px; FONT-FAMILY: Arial,ms sans serif,verdana,geneva
+}
+.head {
+	FONT-SIZE: 16px; COLOR: #2e567a; FONT-FAMILY: Arial,ms sans serif,verdana,geneva
+}
+.text {
+	PADDING-RIGHT: 12px; PADDING-LEFT: 10px; FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: Arial,ms sans serif,verdana,geneva
+}
+.text A {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: Arial,ms sans serif,verdana,geneva; TEXT-DECORATION: none
+}
+.text A:hover {
+	FONT-SIZE: 12px; COLOR: #000066; FONT-FAMILY: Arial,ms sans serif,verdana,geneva; TEXT-DECORATION: underline
+}
+.tdtxt {
+	PADDING-LEFT: 7px; FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 15px; FONT-FAMILY: Arial,ms sans serif,verdana,geneva
+}
+.tdtxt A {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: Arial,ms sans serif,verdana,geneva; TEXT-DECORATION: none
+}
+.tdtxt A:hover {
+	FONT-SIZE: 12px; COLOR: #000066; FONT-FAMILY: Arial,ms sans serif,verdana,geneva; TEXT-DECORATION: underline
+}
+.leftside {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: Arial,ms sans serif,verdana,geneva
+}
+.top-lnk {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: Arial,ms sans serif,verdana,geneva
+}
+.top-lnk A {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+.top-lnk A:hover {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.footer-lnk {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: Arial,ms sans serif,verdana,geneva
+}
+.footer-lnk A {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+.footer-lnk A:hover {
+	COLOR: #c9c5ba; TEXT-DECORATION: none
+}
+.head-td-text {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial,ms sans serif,verdana,geneva
+}
+.head-td-text A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.head-td-text A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.req {
+	FONT-SIZE: 12px; COLOR: #ff620d; FONT-FAMILY: Arial,ms sans serif,verdana,geneva
+}
+.req A {
+	COLOR: #ff620d; TEXT-DECORATION: none
+}
+.req A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.h-td-text {
+	PADDING-LEFT: 8px; FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: Arial,ms sans serif,verdana,geneva
+}
+.h-td-text A {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+.h-td-text A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.right-lnk {
+	PADDING-LEFT: 5px; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Arial,ms sans serif,verdana,geneva
+}
+.right-lnk A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.right-lnk A:hover {
+	COLOR: #fae000; TEXT-DECORATION: underline
+}
+.left-lnk {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.left-lnk A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.left-lnk A:hover {
+	COLOR: #fae000; TEXT-DECORATION: underline
+}
+.left-lnk1 {
+	PADDING-LEFT: 10px; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.left-lnk1 A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.left-lnk1 A:hover {
+	COLOR: #fae000; TEXT-DECORATION: underline
+}
+.folnk {
+	PADDING-LEFT: 5px; FONT-SIZE: 12px; COLOR: #000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.folnk A {
+	COLOR: #0032bc; TEXT-DECORATION: none
+}
+.folnk A:hover {
+	COLOR: #000; TEXT-DECORATION: underline
+}
+.folnk-home {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Arial,ms sans serif,verdana,geneva
+}
+.folnk-home A {
+	COLOR: #fae000; TEXT-DECORATION: none
+}
+.folnk-home A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.fot-lnk {
+	PADDING-LEFT: 5px; FONT-SIZE: 12px; COLOR: #000; FONT-FAMILY: Arial,ms sans serif,verdana,geneva
+}
+.fot-lnk A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+.fot-lnk A:hover {
+	COLOR: #0032bc; TEXT-DECORATION: underline
+}
+.fot-lnk1 {
+	FONT-SIZE: 12px; COLOR: #000; FONT-FAMILY: Arial,ms sans serif,verdana,geneva
+}
+.fot-lnk1 A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+.fot-lnk1 A:hover {
+	COLOR: #0032bc; TEXT-DECORATION: underline
+}
+.bdtxt1 {
+	PADDING-RIGHT: 30px; PADDING-LEFT: 30px; FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: Arial,ms sans serif,verdana,geneva; TEXT-ALIGN: justify
+}
+.bdtxt1 A {
+	COLOR: #fae000
+}
+.bdtxt1 A:hover {
+	COLOR: #fff
+}
+.bdtxt1 B {
+	FONT-SIZE: 15px; COLOR: #fcff00
+}
+.bdtxt1 .sub {
+	FONT-SIZE: 12px; COLOR: #ffffff
+}
+.contact {
+	PADDING-RIGHT: 30px; PADDING-LEFT: 30px; FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: Arial,ms sans serif,verdana,geneva; TEXT-ALIGN: justify
+}
+.contact A {
+	COLOR: #fae000
+}
+.contact A:hover {
+	COLOR: #fff
+}
+.contact .co {
+	FONT-SIZE: 16px; COLOR: #fcff00
+}
+.req {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ff0000; FONT-FAMILY: Arial,ms sans serif,verdana,geneva
+}
+.req A {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+.req A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
